@@ -119,8 +119,3 @@ This project was developed as part of the **CS306: Database Systems** course. Al
 
 ---
 
-## 📎 ER Diagram
-
-[Click here to view the ER diagram](https://excalidraw.com/#room=20d364bfadd9d15250d9,ls6MxTLTFR0TMxMAFYxA-g)
-
----
